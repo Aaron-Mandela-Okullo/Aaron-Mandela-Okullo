@@ -1,6 +1,6 @@
 - ###### Hi there 👋, Aaron Mandela Okullo
 #### Design and development
-![Design and development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Design and development]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/Aaron-Mandela-Okullo/Aaron-Mandela-Okullo/blob/main/banner.jpg))
 
  👋 Hi there! I'm Aaron Mandela Okullo, a passionate designer and developer with a knack for creating intuitive, user-centered digital experiences. My journey spans across UI/UX design, front-end development, and blending creativity with technical expertise.
 Design: Crafting beautiful and functional interfaces focusing on user experience and accessibility. I love transforming complex ideas into simple, elegant solutions.
