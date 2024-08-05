@@ -13,7 +13,7 @@ Development: Building responsive, performant, and scalable web applications usin
 ### Skills:  JS / HTML / CSS/ GIT / REACT.
 
 ### Examples of Work.
-<img src="https://github.com/adriantwarog/blob/master/covid19.gif" width="256" />
+<img src="https://github.com/adriantwarog/adrianwarog/blob/master/covid19.gif" width="256" />
 
 
 - 🌱 I’m currently learning Advanced JavaScript   
