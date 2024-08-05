@@ -7,8 +7,9 @@ Design: Crafting beautiful and functional interfaces focusing on user experience
 Development: Building responsive, performant, and scalable web applications using modern technologies and frameworks. Proficient in HTML, CSS, JavaScript, React, and more.
 
 ### Skills and experience.
-<img src="https://camo.githubusercontent.com/9a9db11bf682066cca1dfc7a79306f13adcee2df86cf0b88f3f6d9486fefe1c2/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" width="100" height="100" />
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react)](https://skillicons.dev)
+<img src="https://camo.githubusercontent.com/9a9db11bf682066cca1dfc7a79306f13adcee2df86cf0b88f3f6d9486fefe1c2/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" width="100" height="100" /> <img src="https://camo.githubusercontent.com/ff8c16659c5be9471783b1d093383516e296e18306afdbc0f437bd7eb6ebe762/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width="100" height="100" /> <img src="https://camo.githubusercontent.com/ff8c16659c5be9471783b1d093383516e296e18306afdbc0f437bd7eb6ebe762/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width="100" height="100" /> 
+
+
 
 
 ### Skills:  JS / HTML / CSS/ GIT / REACT.
