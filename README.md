@@ -10,7 +10,10 @@ Development: Building responsive, performant, and scalable web applications usin
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react)](https://skillicons.dev)
 
 
-### Skills:  JS / HTML / CSS/ GIT / REACT
+### Skills:  JS / HTML / CSS/ GIT / REACT.
+
+### Examples of Work.
+<img src="https:github.com/iantwarog/blob/master/covid19.gif" width="256" />
 
 
 - 🌱 I’m currently learning Advanced JavaScript   
