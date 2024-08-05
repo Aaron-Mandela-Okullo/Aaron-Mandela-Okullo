@@ -1,10 +1,13 @@
-- ###### Hi there 👋, Aaron Mandela Okullo
 #### Design and development
 ![Design and development](https://github.com/Aaron-Mandela-Okullo/Aaron-Mandela-Okullo/blob/main/banner.jpg)
+-###### Hi there 👋, Aaron Mandela Okullo
 
  👋 Hi there! I'm Aaron Mandela Okullo, a passionate designer and developer with a knack for creating intuitive, user-centered digital experiences. My journey spans across UI/UX design, front-end development, and blending creativity with technical expertise.
 Design: Crafting beautiful and functional interfaces focusing on user experience and accessibility. I love transforming complex ideas into simple, elegant solutions.
 Development: Building responsive, performant, and scalable web applications using modern technologies and frameworks. Proficient in HTML, CSS, JavaScript, React, and more.
+
+## Skills and experience.
+## [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react)](https://skillicons.dev)
 
 
 Skills: REACT / JS / HTML / CSS/GIT
