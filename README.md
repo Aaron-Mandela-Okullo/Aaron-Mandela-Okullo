@@ -1,16 +1,38 @@
-## Hi there 👋
+##### ### Hi there 👋, Aaron Mandela Okullo
+#### Design and development
+![Design and development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Aaron-Mandela-Okullo/Aaron-Mandela-Okullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👋 Hi there! I'm Aaron Mandela Okullo, a passionate designer and developer with a knack for creating intuitive, user-centered digital experiences. My journey spans across UI/UX design, front-end development, and blending creativity with technical expertise.
+Design: Crafting beautiful and functional interfaces with a focus on user experience and accessibility. I love transforming complex ideas into simple, elegant solutions.
+Development: Building responsive, performant, and scalable web applications using modern technologies and frameworks. Proficient in HTML, CSS, JavaScript, React, and more.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: REACT / JS / HTML / CSS/GIT
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Advanced JavaScript
+- ### Hi there 👋, Aaron Mandela Okullo
+#### Design and development
+![Design and development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+ 👋 Hi there! I'm Aaron Mandela Okullo, a passionate designer and developer with a knack for creating intuitive, user-centered digital experiences. My journey spans across UI/UX design, front-end development, and blending creativity with technical expertise.
+Design: Crafting beautiful and functional interfaces focusing on user experience and accessibility. I love transforming complex ideas into simple, elegant solutions.
+Development: Building responsive, performant, and scalable web applications using modern technologies and frameworks. Proficient in HTML, CSS, JavaScript, React, and more.
+
+
+Skills: REACT / JS / HTML / CSS/GIT
+
+ 
+- 🌱 I’m currently learning Advanced JavaScript   
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aaron-Mandela-Okullo/Aaron)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Aaron-Mandela-Okullo/Aaron)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Aaron Okullo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Aaron Clinton Mandela)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aaronmandela/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/A@ron M@ndela)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/LY2BQLOs9CsuHXEWRq_qdg)  
+
+
+
+
+
+
+
+
+
