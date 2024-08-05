@@ -1,5 +1,5 @@
 ### Design and development
-![Design and development](https://github.com/Aaron-Mandela-Okullo/Aaron-Mandela-Okullo/blob/main/banner.jpg)
+![Design and development](<img src="https://github.com/Aaron-Mandela-Okullo/Aaron-Mandela-Okullo/blob/main/banner.jpg" width="300" height="220" />)
 ## Hi there 👋, I'm Aaron Mandela Okullo
 
   I'm Aaron Mandela Okullo from Uganda, a passionate designer and developer with a knack for creating intuitive, user-centered digital experiences. My journey spans UI/UX design, front-end development, and blending creativity with technical expertise.
