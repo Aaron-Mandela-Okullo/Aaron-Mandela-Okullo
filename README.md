@@ -17,7 +17,7 @@ Development: Building responsive, performant, and scalable web applications usin
 
 
 ### Examples of Work.
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="230" height="220" /> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="230" height="220" /> <img src="https://github.com/mayankchaudhary26/mayankchaudhary26/raw/master/.github/workflows/ezgif.com-gif-maker.gif" width="230" height="220" />
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="230" height="220" /> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="230" height="220" /> <img src="https://github.com/mayankchaudhary26/mayankchaudhary26/raw/master/.github/workflows/ezgif.com-gif-maker.gif" width="230" height="220" /> <img src"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm0xODhsdmowZDFrc202cGpxMDY0Z3ZxMm9ncnBnbzJ5eGR1bWEzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/100.webp" width="230" height="220" />
 
 
 - 🌱 I’m currently learning Advanced JavaScript   
